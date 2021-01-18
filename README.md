@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://cdn-media-1.freecodecamp.org/images/1*LMEECiXhk715h-VCFyb-GA.jpeg">
+<img src="https://cdn-media-1.freecodecamp.org/images/1*LMEECiXhk715h-VCFyb-GA.jpeg" style="width: 100%;  height: 300px;">
 <!--
 **devpilot-official/devpilot-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
