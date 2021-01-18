@@ -1,16 +1,21 @@
-### Hi there 👋
-<img src="https://cdn-media-1.freecodecamp.org/images/1*LMEECiXhk715h-VCFyb-GA.jpeg" style="width: 100%;  height: 300px;">
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Muhammed, a self-motivated and ready to learn and improve tech enthusiast and full stack web developer.
+</p>
 <!--
-**devpilot-official/devpilot-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/skarpabank">@SkarpaBank</a> | 🌱 building <a href="https://github.com/devpilot-official/what am working on">HMS</a> | 💬 connect <a href="https://twitter.com/oficialdevpilot">@oficialdevpilot</a>
+</h4>-->
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+<img src="https://tech365.ng/images/2020/03/15/react-and-nodejs-training-lagos-nigeria.jpg" alt="stacks"/>
+</h3>
