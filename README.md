@@ -17,6 +17,6 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flaravel%2Flaravel&psig=AOvVaw0742jm3l7_d9io5xQZH888&ust=1611062151674000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCThbzIpe4CFQAAAAAdAAAAABAD" alt="stacks"/>
-<img src="https://tech365.ng/images/2020/03/15/react-and-nodejs-training-lagos-nigeria.jpg" alt="stacks"/>
+<img src="https://miro.medium.com/max/2402/1*_-vJQqeCmpw-kghDFX8yJw.png" alt="Laravel"/>
+<img src="https://tech365.ng/images/2020/03/15/react-and-nodejs-training-lagos-nigeria.jpg" alt="MERN"/>
 </h3>
