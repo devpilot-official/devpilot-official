@@ -8,7 +8,7 @@ I'm Muhammed, a self-motivated and ready to learn/improve tech enthusiast and fu
 💻 full stack developer <a href="https://github.com/skarpabank">@SkarpaBank</a> | 🌱 building <a href="https://github.com/devpilot-official/what am working on">HMS</a> | 💬 connect <a href="https://twitter.com/oficialdevpilot">@oficialdevpilot</a>
 </h4>-->
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+<!-- <a href="https://akasrai.github.io/">https://akasrai.github.io</a> -->
 </p>
 
 <br/>
